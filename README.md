@@ -1,6 +1,4 @@
-# hello-world
-just a repository
+# thematest
+Test-Repository für die Bearbeitung eines Themas
 
-Hello.
-
-I'm Bernd and i'm 28.
+Hallo
